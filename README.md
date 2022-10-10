@@ -29,7 +29,7 @@
 <a href="https://linkedin.com/in/hafez-abdullah-al-noman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafez-abdullah-al-noman" height="30" width="40" /></a>
 <a href="https://fb.com/hafez.abdullah.al.noman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hafez.abdullah.al.noman" height="30" width="40" /></a>
 <a href="https://instagram.com/hafez_abdullah_al_noman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hafez_abdullah_al_noman" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uc9tmr3vh2c6aftniqm1hcza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc9tmr3vh2c6aftniqm1hcza" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC9tmR3vH2c6aftniQm1HczA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc9tmr3vh2c6aftniqm1hcza" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
