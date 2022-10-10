@@ -10,11 +10,11 @@
 - 🔭 I’m currently working on **various projects**
 
 - 🌱 I’m currently learning **cypress**
-
+<!---
 - 👯 I’m looking to collaborate on **[coming soon]**
 
 - 🤝 I’m looking for help with **[coming soon]**
-
+--->
 - 👨‍💻 All of my projects are available at [https://www.nomanapps.com/projects/myportfolio/](https://www.nomanapps.com/projects/myportfolio/)
 
 - 💬 Ask me about **selenium, cypress**
