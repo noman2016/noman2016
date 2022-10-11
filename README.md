@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **various projects**
 
-- 🌱 I’m currently learning **cypress**
+- 🌱 I’m currently learning **cypress & Docker / DevOps**
 <!---
 - 👯 I’m looking to collaborate on **[coming soon]**
 
@@ -17,7 +17,7 @@
 --->
 - 👨‍💻 All of my projects are available at [https://www.nomanapps.com/projects/myportfolio/](https://www.nomanapps.com/projects/myportfolio/)
 
-- 💬 Ask me about **selenium, cypress**
+- 💬 Ask me about **selenium, test automation**
 
 - 📫 How to reach me **hafezalnoman@gmail.com**
 
