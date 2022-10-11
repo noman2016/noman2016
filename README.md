@@ -7,9 +7,9 @@
 --->
 <p align="left"> <a href="https://twitter.com/h_a_a_noman" target="blank"><img src="https://img.shields.io/twitter/follow/h_a_a_noman?logo=twitter&style=for-the-badge" alt="h_a_a_noman" /></a> </p>
 
-- 🔭 I’m currently working on **various projects**
+🔭 I’m currently working on **various projects**
 
-- 🌱 I’m currently learning **cypress & Docker / DevOps**
+🌱 I’m currently learning **cypress & Docker / DevOps**
 <!---
 - 👯 I’m looking to collaborate on **[coming soon]**
 
