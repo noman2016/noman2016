@@ -11,17 +11,17 @@
 
 🌱 I’m currently learning **cypress & Docker / DevOps**
 <!---
-- 👯 I’m looking to collaborate on **[coming soon]**
-
-- 🤝 I’m looking for help with **[coming soon]**
+👯 I’m looking to collaborate on **[coming soon]**
 --->
-- 👨‍💻 All of my projects are available at [https://www.nomanapps.com/projects/myportfolio/](https://www.nomanapps.com/projects/myportfolio/)
+🤝 I’m looking for help with **PMP certification course material**
 
-- 💬 Ask me about **selenium, test automation**
+👨‍💻 All of my projects are available at [https://www.nomanapps.com/projects/myportfolio/](https://www.nomanapps.com/projects/myportfolio/)
 
-- 📫 How to reach me **hafezalnoman@gmail.com**
+💬 Ask me about **selenium, test automation**
 
-- ⚡ Fun fact **I think I'm a very cool guy but sometimes thinking I'm just trying for that..**
+📫 How to reach me **hafezalnoman@gmail.com**
+
+⚡ Fun fact **I think I'm a very cool guy but sometimes thinking I'm just trying for that..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
