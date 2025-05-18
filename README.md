@@ -11,7 +11,7 @@
 
 🔭 I’m currently working on **various projects**
 
-🌱 I’m currently learning **cypress & Docker / DevOps**
+🌱 I’m currently learning **Docker / DevOps**
 <!---
 👯 I’m looking to collaborate on **[coming soon]**
 --->
