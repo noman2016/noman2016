@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Noman (Hafez Abdullah Al Noman)</h1>
-<h3 align="center">A passionate Software Quality Assurance Engineer from Bangladesh.</h3>
-
+<h3 align="center">A passionate Software Quality Assurance Specialist Engineer</h3>
 <!---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noman2016&label=Profile%20views&color=0e75b6&style=flat" alt="noman2016" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noman2016" alt="noman2016" /></a> </p>
 --->
 <p align="left"> <a href="https://twitter.com/h_a_a_noman" target="blank"><img src="https://img.shields.io/twitter/follow/h_a_a_noman?logo=twitter&style=for-the-badge" alt="h_a_a_noman" /></a> </p>
+
+![logo](https://www.nomanapps.com/projects/images/MD%20ADULLAH%20AL%20NOMANs%20Personal%20Branding%20LinkedIn%20Banner.gif)
 
 🔭 I’m currently working on **various projects**
 
