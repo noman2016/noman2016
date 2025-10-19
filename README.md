@@ -1,4 +1,5 @@
-![NOMAN](https://www.nomanapps.com/projects/images/MD%20ADULLAH%20AL%20NOMANs%20Personal%20Branding%20LinkedIn%20Banner.gif)
+<!--- ![NOMAN](https://www.nomanapps.com/projects/images/MD%20ADULLAH%20AL%20NOMANs%20Personal%20Branding%20LinkedIn%20Banner.gif) --->
+![Noman git Banner](https://github.com/user-attachments/assets/af9c5e98-46b0-4876-803c-d98d210c782a)
 <h1 align="center">Hi 👋, I'm Noman (Also known as Hafez Abdullah Al Noman)</h1>
 <h3 align="center">A passionate Software Quality Assurance Specialist Engineer</h3>
 <!---
